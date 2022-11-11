@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "Fashion Nails And Hair Salon",
+        "slug"      : "Fashion-nails-and-hair-salon",
+        "phone"     : "(315) 768-7883",
+        "email"     : "bryannguyen239@hotmail.com",
+        "address"   : "4644 Commercial Dr, New Hardford, New York 13413",
+        "time_1"    : "Monday: Closed",
+        "time_2"    : "Tue - Fri: 09:00 AM - 07:00 PM",
+        "time_3"    : "Saturday: 09:00 AM - 05:00 PM",
+        "time_4"    : "Sunday: Closed"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/Fashionnailsandhairsalon",
+        "instagram" :   "https://www.instagram.com/fashion_nails_and_hair_salon",
+        "google"    :   "https://goo.gl/maps/cu5ZbzVXH5FWo7B66",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDc4Mjh8ZmFzaGlvbjAyfE5ZXzA4MDAzfGNiNTM1MTRiYjEwZTEyMzJjMmIwMmI1NWUwMGYxNTc3",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.8014241035366!2d-75.31350704850992!3d43.08766997904236!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d941961b1542af%3A0x6b641e6f51f62a61!2sFashion%20Nails%20%26%20Hair%20Salon!5e0!3m2!1sen!2s!4v1668140890867!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "rgb(35 31 32 / 100%)",
+        "primary_light"         :   "rgb(35 31 32 / 80%)",
+        "primary_hover"         :   "rgb(35 31 32 / 50%)",
+        "secondary"             :   "#474747",
+        "secondary_hover"       :   "rgb(249 230 134)",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "images",
+    "domain":       "http://127.0.0.1:5500/"
+}
